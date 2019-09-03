@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packages>
+    <package id="nodejs.install" />
+    <package id="busybox" />
+    <package id="miniconda3" />
+    <package id="vscode" />
+    <package id="7zip.install" />
+    <package id="winmerge-jp" />
+    <package id="winmerge-7z" />
+    <package id="gimp" />
+    <package id="androidstudio" />
+    <package id="conemu" />
+    <package id="firefox" />
+    <package id="postman" />
+    <package id="sakuraeditor" />
+    <package id="ffftp.install" />
+    <package id="git.install" />
+    <package id="winscp.install" />
+    <package id="sourcetree" />
+    <package id="qttabbar" />
+    <package id="line" />
+    <package id="slack" />
+    <package id="curl" />
+    <package id="wireshark" />
+    <package id="rustup.install" />
+    <package id="alacritty.install" />
+    <package id="datagrip" />
+    <package id="greenshot" />
+</packages>
